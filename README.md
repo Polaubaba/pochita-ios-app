@@ -24,7 +24,7 @@ Check out Pochita in action! 👀
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/pochita.git
+git clone https://github.com/Polaubaba/pochita-ios-app.git
 2️⃣ Open the project in Xcode.
 3️⃣ Build & Run on your iPhone! 📱
 
