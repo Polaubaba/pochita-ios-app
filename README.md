@@ -1,4 +1,3 @@
-# pochita-ios-app
 An App for ios, iPhone operating system. Supports for ios18. Based on Swift code of ios, built on xCode.
 # 🟠 Pochita - The Playful Timekeeper! ⏰
 An iOS app that tells time, but with a fun twist! 🎉
