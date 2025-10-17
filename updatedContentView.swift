@@ -9,7 +9,7 @@ struct ContentView: View {
     @State private var timerEmoji = ""
     
     let emojiDictionary: [String: String] = [
-        "Heart": "❤️",
+        "Heart": "🦎",
         "Joker": "🤡",
         "Fire": "🔥",
         "Star": "⭐️",
